@@ -60,7 +60,8 @@
 			<Item Name="Clear Empty Parents.vi" Type="VI" URL="../support/Clear Empty Parents.vi"/>
 		</Item>
 		<Item Name="LabVIEW Demo Station.ini" Type="Document" URL="../LabVIEW Demo Station.ini"/>
-		<Item Name="LabVIEW Demo Station.vi" Type="VI" URL="../LabVIEW Demo Station.vi"/>
+		<Item Name="LabVIEW+Suite Demo Station.vi" Type="VI" URL="../LabVIEW+Suite Demo Station.vi"/>
+		<Item Name="LV Colormap Fresh.vi" Type="VI" URL="../../../../Users/nkirchne/Documents/~SANDBOX/LV Colormap Fresh.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="My Source Distribution" Type="Source Distribution">
@@ -96,7 +97,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{FD363231-517C-43C2-99D7-437EB698A11B}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/LabVIEW Demo Station.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="Source[2].destinationIndex" Type="Int">0</Property>
